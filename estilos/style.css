@@ -141,14 +141,14 @@ article h2 {
   font-family: 'Courier New', Courier, monospace;
 }
 
-.video-conteiner {
+.video-container {
   position: relative;
   width: 100%;
   margin: auto;
   aspect-ratio: 16/9;
 }
 
-.video-conteiner iframe {
+.video-container iframe {
   position: absolute;
   top: 0;
   left: 0;
